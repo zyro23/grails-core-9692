@@ -1,0 +1,6 @@
+/build
+/.asscache
+/abstracttest.ipr
+/abstracttest.iml
+/.gradle
+/abstracttest.iws
